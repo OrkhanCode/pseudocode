@@ -1,0 +1,7 @@
+start
+input m 
+if(m % 2==0)
+  print cut ededdir
+else
+  print tek ededdir
+end
